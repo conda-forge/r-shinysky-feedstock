@@ -15,7 +15,7 @@ source:
 
 build:
   noarch: generic
-  number: 1001
+  number: 1002
   rpaths:
     - lib/R/lib/
     - lib/
@@ -42,6 +42,7 @@ about:
   license: MIT
   license_family: MIT
   summary: A set of Shiny UI components includings alerts and styled buttons
+  license_file: LICENSE
 
 extra:
   recipe-maintainers:

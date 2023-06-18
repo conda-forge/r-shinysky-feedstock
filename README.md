@@ -1,11 +1,11 @@
-About r-shinysky
-================
+About r-shinysky-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinysky-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mingwandroid/ShinySky
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-shinysky-feedstock/blob/main/LICENSE.txt)
 
 Summary: A set of Shiny UI components includings alerts and styled buttons
 
